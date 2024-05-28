@@ -1,5 +1,5 @@
-import logo from './Exire-Logistics-Site-Logo.png';
-import './App.css';
+import logo from '../assets/images/Exire-Logistics-Site-Logo.png';
+import '../assets/styles/App.css';
 
 function App() {
   return (
@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="logo" alt="logo" />
         <p>
-         Exire Logistics "Logistics with Intelligence"
+         "Logistics with Intelligence"
         </p>
         
       </header>
