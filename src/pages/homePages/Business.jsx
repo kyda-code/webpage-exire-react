@@ -14,7 +14,7 @@ const Business = () => {
     return (
         <>
             <div className="wrapper">
-                <HeaderV4 logoColor={true} />
+                <HeaderV4 logoColor={true}/>
                 <BannerV4 />
                 <AboutV3 />
                 <ServiceV3 />

@@ -13,8 +13,8 @@ const HeaderTopV1 = () => {
                                         <i className="fa-solid fa-map-marker-alt"></i>
                                     </div>
                                     <div className="info">
-                                        <strong>Address</strong>
-                                        70240 Avenue of the Moon, California
+                                        <strong>Direcci&oacute;n</strong>
+                                        06500, Rio Lerma 94 Piso 3, Cuauht&eacute;moc, CDMX
                                     </div>
                                 </li>
                                 <li>
@@ -22,8 +22,8 @@ const HeaderTopV1 = () => {
                                         <i className="fa-solid fa-headset"></i>
                                     </div>
                                     <div className="info">
-                                        <strong>Phone</strong>
-                                        <a href="tel:4733378901">+4733378901</a>
+                                        <strong>Tel&eacute;fono</strong>
+                                        <a href="tel:525515008442">+52 55 1500-8442</a>
                                     </div>
                                 </li>
                             </ul>
@@ -34,8 +34,8 @@ const HeaderTopV1 = () => {
                                     <i className="fa-solid fa-comments-dollar"></i>
                                 </div>
                                 <div className="info">
-                                    <p>Have any Questions?</p>
-                                    <h5><a href="mailto:info@crysta.com">info@bestup.com</a></h5>
+                                    <p>¿Alguna Pregunta?</p>
+                                    <h5><a href="mailto:info@exire.mx">info@exire.mx</a></h5>
                                 </div>
                             </div>
                         </div>

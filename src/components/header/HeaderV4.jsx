@@ -99,7 +99,6 @@ const HeaderV4 = ({ logoColor = false }) => {
                     <div className="container d-flex justify-content-between align-items-center">
                         <HeaderLogoV3 logoColor={logoColor} openMenu={openMenu} />
                         <MainMenu isOpen={isOpen} closeMenu={closeMenu} toggleSubMenu={toggleSubMenu} toggleMegaMenu={toggleMegaMenu} />
-                        <HeaderSidebarMenu removeClasses={removeClasses} isSidebarOpen={isSidebarOpen} addClasses={addClasses} searchOpen={searchOpen} />
                     </div>
                     <div className={`overlay-screen ${isOpen ? "opened" : ""}`}></div>
                 </nav>

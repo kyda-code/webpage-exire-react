@@ -38,8 +38,8 @@ function App() {
       {isLoading ? <Preloader /> :
         <div>
           <Helmet>
-            <title>Dilabs Creative Digital Agency React Template</title>
-            <link rel="shortcut icon" href="/img/others/favicon.ico"></link>
+            <title>Exire Logistics</title>
+            <link rel="shortcut icon" href="/img/others/favicon.png"></link>
           </Helmet>
           <Routers />
           <ScrollUpBtn />
