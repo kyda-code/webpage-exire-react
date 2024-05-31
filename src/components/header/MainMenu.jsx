@@ -11,7 +11,6 @@ const MainMenu = ({ isOpen, closeMenu, toggleSubMenu, toggleMegaMenu }) => {
                 </button>
                 <ul className="nav navbar-nav navbar-center">
                     <li><Link to="/#">Inicio</Link></li>
-                    <li><Link to="/contact-us#">Contacto</Link></li>
                 </ul>
             </div>
         </>
