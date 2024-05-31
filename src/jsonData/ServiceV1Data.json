@@ -5,9 +5,37 @@
         "icon1Dark": "target.png",
         "thumb": "exire-logistics-service-international.jpg",
         "icon2": "fas fa-long-arrow-right",
-        "text": "Continued at up zealously necessary breakfast. Surrounded sir motionless she end literature. Gay direction neglected but supported yet melancho themselves.",
+        "text": "Pueden ser necesarios varios modos de transporte para llevar su carga de A a B. Obtenga información sobre cómo optimizar el transporte marítimo, por carretera, ferroviario y aéreo para garantizar el movimiento fluido de sus mercancías en todo el mundo.",
         "title": "Transporte Internacional",
-        "serviceLink": "services-details"
+        "serviceLink": "services-details",
+        "challenge" : "El comercio internacional tiene su origen en la necesidad que tienen los países de intercambiar sus bienes transformandolos en productos para satisfacer diferentes necesidades; este tipo de comercio ha evolucionado con el tiempo y con ello las nuevas formas de hacer negocios internacionales. En Exire Logistics sabemos esto y es por ello que nuestros ejecutivos están en constante capacitación para manejar los nuevos retos.",
+        "weMake" : " Introducir mercancía a territorio nacional se le conoce como importación y enviar mercancía a territorio extranjero se le conoce como exportación; para darle legalidad a estas actividades se debe dar cumplimiento a pago de derechos, pago de impuestos, presentación de permisos y demás regulaciones que la autoridad aduanera solicita, con Exire Logistics no debes de preocuparte por ello nosotros nos encargamos.",
+        "featureList": [
+            {
+                "id": 1,
+                "featureList": "Permisos y regulaciones"
+            },
+            {
+                "id": 2,
+                "featureList": "Gestión aduanal"
+            },
+            {
+                "id": 3,
+                "featureList": "Transporte nacional"
+            },
+            {
+                "id": 4,
+                "featureList": "Importación marítima"
+            },
+            {
+                "id": 5,
+                "featureList": "Exportación marítima"
+            },            
+            {
+                "id": 6,
+                "featureList": "Desarrollo de Proveedores en Asia"
+            }
+        ]
     },
     {
         "id": 2,
@@ -15,9 +43,37 @@
         "icon1Dark": "envelope.png",
         "thumb": "exire-logistics-service-national.jpg",
         "icon2": "fas fa-long-arrow-right",
-        "text": "Continued at up zealously necessary breakfast. Surrounded sir motionless she end literature. Gay direction neglected but supported yet melancho themselves.",
+        "text": "En Exire Logistics te ofrecemos soluciones de transporte terrestre nacional para diferentes industrias ya que contamos con una amplia red de proveedores para ofrecerte diferentes alternativas adecuadas a tus necesidades en México o en el extranjero",
         "title": "Transporte Nacional",
-        "serviceLink": "services-details"
+        "serviceLink": "services-details", 
+        "challenge" : "Las compañías logísticas en México han tenido que adaptarse rápidamente para satisfacer la demanda de entregas más rápidas y eficientes, poniendo a prueba la capacidad de las redes de distribución existentes.",
+        "weMake" : "Queremos ser tus aliados en la cadena de suministro para transportar tu carga de forma segura, ágil y eficiente para importar o exportar tu carga desde y hacia México, contamos con la experiencia de +20 años para ayudar a nuestros clientes a realizar importación y exportación con unidades limpias, seguras, con GPS y adecuadas para el traslado de carga.",
+        "featureList": [
+            {
+                "id": 1,
+                "featureList": "Asesoría para seleccionar el transporte adecuado"
+            },
+            {
+                "id": 2,
+                "featureList": "Simplificar los procesos y gestiones burocráticas en aduana"
+            },
+            {
+                "id": 3,
+                "featureList": "Seguridad legal y documentación aduanera en regla"
+            },
+            {
+                "id": 4,
+                "featureList": "Puerta a puerta para entregar tu carga en origen y destino en México o en el extranjero"
+            },
+            {
+                "id": 5,
+                "featureList": "Puerta a puerto para entregar tu carga al puerto deseado en México o en el extranjero"
+            },            
+            {
+                "id": 6,
+                "featureList": "Puerto a puerta para recolectar tu carga en el puerto y entregarlo en donde nos indiques en México o en el extranjero"
+            }
+        ]
     },
     {
         "id": 3,
@@ -25,9 +81,29 @@
         "icon1Dark": "analytics.png",
         "thumb": "exire-logistics-service-customsclearance.jpg",
         "icon2": "fas fa-long-arrow-right",
-        "text": "Continued at up zealously necessary breakfast. Surrounded sir motionless she end literature. Gay direction neglected but supported yet melancho themselves.",
+        "text": "Se entiende por despacho aduanero el conjunto de actos y formalidades relativos a la entrada de mercancías al territorio nacional y a su salida del mismo.",
         "title": "Despacho Aduanal",
-        "serviceLink": "services-details"
+        "serviceLink": "services-details",
+        "challenge" : "En México, un país con un importante comercio exterior, las aduanas representan un desafío constante para las empresas que buscan realizar importaciones y exportaciones de manera eficiente.",
+        "weMake" : "Con Exire Logistics cuentas con la experiencia de +20 años para ayudarte a realizar trámites aduanales, estamos presentes en las aduanas más importantes de México para la entrada de mercancías a territorio nacional o su salida de acuerdo con los diferentes tráficos y regímenes aduaneros establecidos.",
+        "featureList": [
+            {
+                "id": 1,
+                "featureList": "Cumplir con el fundamento legal del artículo 35 de la Ley Aduanera"
+            },
+            {
+                "id": 2,
+                "featureList": "Asegurar la entrada y salida de sus mercancías por lugares debidamente autorizados"
+            },
+            {
+                "id": 3,
+                "featureList": "Realizar de manera correcta todos los trámites ante la autoridad aduanera"
+            },
+            {
+                "id": 4,
+                "featureList": "Explicar claramente cuales son los impuestos que deben ser pagados"
+            }
+        ]
     },
     {
         "id": 4,
@@ -35,9 +111,33 @@
         "icon1Dark": "4.png",
         "thumb": "exire-logistics-service-air.jpg",
         "icon2": "fas fa-long-arrow-right",
-        "text": "Continued at up zealously necessary breakfast. Surrounded sir motionless she end literature. Gay direction neglected but supported yet melancho themselves.",
+        "text": " El transporte aéreo es útil para transportar mercancías perecederas o cuando el tiempo apremia, en Exire Logistics cuentas con especialistas que te ayudaran a diferenciar si este tipo de transporte es para tus necesidades de negocio",
         "title": "Transporte Aéreo",
-        "serviceLink": "services-details"
+        "serviceLink": "services-details",
+        "challenge" : "Cuando tu necesidad es reducir el tiempo de tránsito de tus envíos para asegurar la continuidad en tu producción, que tu carga sea de alto valor, alimentos perecederos, mercancías urgentes o atraviesas una situación crítica este tipo de transporte es para ti.",
+        "weMake" : "Con la ayuda de nuestros especialistas podemos reducir al máximo el tiempo de trayecto realizando todos los trámites alrededor para que no te tengas que preocuparte por ellos, lo de menos es de donde vienen o hacia donde van con nosotros tu mercancía llega.",
+        "featureList": [
+            {
+                "id": 1,
+                "featureList": "Coordinar el embarque desde sus almacenes hasta su destino"
+            },
+            {
+                "id": 2,
+                "featureList": "Gestionar trámites aduanales en cualquier parte del mundo"
+            },
+            {
+                "id": 3,
+                "featureList": "Establecer las conexiones que permitan llegar tu carga a tiempo"
+            },
+            {
+                "id": 4,
+                "featureList": "Actualizar el estado de su carga dando seguimiento oportuno"
+            },
+            {
+                "id": 5,
+                "featureList": "Asegurar su carga en caso de ser necesario"
+            }
+        ]
     },
     {
         "id": 5,
@@ -45,9 +145,33 @@
         "icon1Dark": "5.png",
         "thumb": "exire-logistics-service-import-sea.jpg",
         "icon2": "fas fa-long-arrow-right",
-        "text": "Continued at up zealously necessary breakfast. Surrounded sir motionless she end literature. Gay direction neglected but supported yet melancho themselves.",
+        "text": "La importación marítima es la introducción de productos de un país tercero en otro país por barco. Importar por contenedor marítimo es la vía de importación más accesible en costos generales",
         "title": "Importación Marítima",
-        "serviceLink": "services-details"
+        "serviceLink": "services-details",
+        "challenge" : "En Exire Logistics conocemos la importancia que posee el comercio internacional y lo que representa en oportunidades para las empresas; si tu necesidad es traer lo necesario para tu negocio contamos con una amplia experiencia en los principales puertos en México para que la importación sea un éxito.",
+        "weMake" : "Con nuestros +20 años de experiencia conocemos en su totalidad el proceso para la importación marítima cuando se trate de ropa, equipo especializado, autos, electrodomésticos y un gran etcétera.                         Antes de iniciar con el proceso es importante recopilar toda la información del embarque, origen y destino, tamaño, peso y tipo de carga, etc. Posterior a ello Exire Logistics se encarga de diseñar la solución de acuerdo a lo que necesites confirmando el importador el tipo de buque, la fecha de salida, tiempo del viaje y el lugar de entrega de la carga.",
+        "featureList": [
+            {
+                "id": 1,
+                "featureList": "Seleccionar el tipo de contenedor adecuado"
+            },
+            {
+                "id": 2,
+                "featureList": "Realizar los trámites correspondientes en origen y destino"
+            },
+            {
+                "id": 3,
+                "featureList": "Realizar la factura conforme el acuerdo establecido sin costos ocultos"
+            },
+            {
+                "id": 4,
+                "featureList": "Generar certificado de origen"
+            },
+            {
+                "id": 5,
+                "featureList": "Generar certificado de seguro"
+            }
+        ]
     },
     {
         "id": 6,
@@ -55,8 +179,32 @@
         "icon1Dark": "6.png",
         "thumb": "exire-logistics-service-export-sea.jpg",
         "icon2": "fas fa-long-arrow-right",
-        "text": "Continued at up zealously necessary breakfast. Surrounded sir motionless she end literature. Gay direction neglected but supported yet melancho themselves.",
+        "text": "De México para el mundo, esta frase la tiene muy presente Exire Logistics, si es bueno para México es bueno para el mundo, es por ello que nos esforzamos en que los productos mexicanos sean conocidos en el mundo, usando la exportación marítima para materia prima o producto terminado.",
         "title": "Exportacion Marítima",
-        "serviceLink": "services-details"
+        "serviceLink": "services-details",
+        "challenge" : "Si buscas que tu producto llegue a cualquier parte del mundo, nosotros de podemos ayudar con asesoría personalizada en función de las características de tu carga y llevándola al puerto deseado.",
+        "weMake" : "En nuestros años de experiencia hemos podido ayudar a +50 de empresas mexicanas (y aumentando) a mandar sus productos textiles, destilados, materia prima y un largo etcétera a diferentes partes del mundo.",
+        "featureList": [
+            {
+                "id": 1,
+                "featureList": "Seleccionar el tipo de contenedor adecuado"
+            },
+            {
+                "id": 2,
+                "featureList": "Realizar los trámites correspondientes en origen y destino"
+            },
+            {
+                "id": 3,
+                "featureList": "Realizar la factura conforme el acuerdo establecido sin costos ocultos"
+            },
+            {
+                "id": 4,
+                "featureList": "Generar certificado de origen"
+            },
+            {
+                "id": 5,
+                "featureList": "Generar certificado de seguro"
+            }
+        ]
     }
 ]
