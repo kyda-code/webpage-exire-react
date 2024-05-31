@@ -4,15 +4,15 @@ import { HashLink as Link } from 'react-router-hash-link';
 const SupportWidget = () => {
     return (
         <>
-            <div className="single-widget quick-contact-widget text-light" style={{ backgroundImage: "url(/img/thumb/4.jpg)" }}>
+            <div className="single-widget quick-contact-widget text-light" style={{ backgroundImage: "url(/img/thumb/exire-logistics-service.jpg)" }}>
                 <div className="content">
-                    <h3>Need Help?</h3>
+                    <h3>¿Necesitas Ayuda?</h3>
                     <p>
-                        Speak with a human to filling out a form? call corporate office and we will connect.
+                        No dudes en contactarnos para diseñar la solución adecuada a tus necesidades o responder tus dudas.
                     </p>
-                    <h2>+(012) 6679545</h2>
-                    <h4><a href="mailto:info@digital.com">info@digital.com</a></h4>
-                    <Link className="btn mt-30 circle btn-sm btn-gradient" to="/contact-us#">Contact Us</Link>
+                    <h2><a href="tel:525515008442">+52 55 1500-8442</a></h2>
+                    <h4><a href="mailto:info@exire.mx">info@exire.mx</a></h4>
+                    <Link className="btn mt-30 circle btn-sm btn-gradient" to="/contact-us#">Contáctanos</Link>
                 </div>
             </div>
         </>

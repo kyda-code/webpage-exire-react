@@ -10,8 +10,8 @@ const ServiceV3 = () => {
                     <div className="row">
                         <div className="col-lg-8 offset-lg-2">
                             <div className="site-heading text-center">
-                                <h5 className="sub-title">Service were offering</h5>
-                                <h2 className="title">Turn Information <br /> Into Actionable Insights</h2>
+                                <h5 className="sub-title">Servicios</h5>
+                                <h2 className="title">Tenemos los Servicios<br/>Logística Nacional e Internacioal</h2>
                             </div>
                         </div>
                     </div>

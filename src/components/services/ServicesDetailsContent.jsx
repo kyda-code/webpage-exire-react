@@ -1,7 +1,6 @@
 import React from 'react';
 import ServiceListWidget from '../widgets/ServiceListWidget';
 import SupportWidget from '../widgets/SupportWidget';
-import BoucherWidget from '../widgets/BoucherWidget';
 import FeatureListData from '../../jsonData/FeatureListData.json'
 import PopularServiceData from '../../jsonData/PopularServiceData.json'
 import SinglePopularService from './SinglePopularService';
@@ -65,7 +64,6 @@ const ServicesDetailsContent = ({ serviceInfo }) => {
                             <div className="col-xl-4 col-lg-5 mt-md-50 mt-xs-50 pl-30 pl-md-15 pl-xs-15 services-sidebar">
                                 <ServiceListWidget />
                                 <SupportWidget />
-                                <BoucherWidget />
                             </div>
                         </div>
                     </div>

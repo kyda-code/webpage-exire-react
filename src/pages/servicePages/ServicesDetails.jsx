@@ -1,5 +1,5 @@
 import React from 'react';
-import HeaderV5 from '../../components/header/HeaderV5';
+import HeaderV5 from '../../components/header/HeaderV4';
 import BreadCrumb from '../../components/breadCrumb/BreadCrumb';
 import ServicesDetailsContent from '../../components/services/ServicesDetailsContent';
 import FooterV1 from '../../components/footer/FooterV1';
@@ -15,7 +15,7 @@ const ServicesDetails = () => {
         <>
             <div className="wrapper">
                 <HeaderV5 />
-                <BreadCrumb breadCrumb="services-details" title1="Turn Information" title2="Into Actionable Insights" bottomSpace="pb-0" />
+                <BreadCrumb breadCrumb="services-details" title1={data.title} bottomSpace="pb-0" />
                 <ServicesDetailsContent serviceInfo={data} />
                 <FooterV1 />
             </div>
