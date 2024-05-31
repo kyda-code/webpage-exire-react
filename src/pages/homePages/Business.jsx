@@ -18,11 +18,6 @@ const Business = () => {
                 <BannerV4 />
                 <AboutV3 />
                 <ServiceV3 />
-                <ShowCaseV2 />
-                <TeamV3 />
-                <WhyChooseUsV3 />
-                <ContactV1 />
-                <BlogV1 />
                 <FooterV1 />
             </div>
         </>

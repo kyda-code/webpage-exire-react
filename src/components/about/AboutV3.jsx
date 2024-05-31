@@ -10,8 +10,8 @@ const AboutV3 = () => {
                     <div className="row">
                         <div className="col-lg-6 about-style-three">
                             <div className="about-three-thumb">
-                                <img src="/img/thumb/6.jpg" alt="Image Not Found" />
-                                <img src="/img/thumb/5.jpg" alt="Image Not Found" />
+                                <img src="/img/thumb/exire-logistics-containers.jpg"/>
+                                <img src="/img/thumb/exire-logistics-solutions.jpg"/>
                                 <div className="experience">
                                     <h2><strong><CountUp end={18} duration={3} enableScrollSpy /></strong> Years Experience</h2>
                                 </div>
@@ -22,25 +22,29 @@ const AboutV3 = () => {
                         </div>
                         <div className="col-lg-5 offset-lg-1 about-style-three">
                             <div className="about-three-info">
-                                <h4 className="sub-title">About our company</h4>
-                                <h2 className="title">Working together <br /> to deliver value </h2>
+                                <h4 className="sub-title">Acerca de nosotros</h4>
+                                <h2 className="title">Trabajando juntos <br /> para ofrecer valor</h2>
                                 <p>
-                                    Contrasted dissimilar get joy you instrument out reasonably. Again keeps at no meant stuff. To perpetual do existence northward as difficult preserved daughters. Continued at up to zealously necessary breakfast. Surrounded sir motionless she end literature. Gay direction neglected but supported yet her.
+                                Exire Logistics es una compañía mexicana comprometida en transformar
+                                la gestión de comercio exterior adaptándose a las exigencias actuales,
+                                combinamos distintas disciplinas en finanzas, administración, ingeniería
+                                de negocios y tecnología; esto nos posiciona como una empresa innovadora y
+                                con una visión única en los negocios internacionales.
                                 </p>
-                                <ul className="list-grid-four">
-                                    {AboutV3ListData.map(about =>
-                                        <li key={about.id}>{about.item}</li>
-                                    )}
+                                <p>
+                                Trabajemos juntos para saber cuales
+                                son los retos de su proyecto, te escuchamos y
+                                te ayudamos a encontrar la solución poniendo
+                                sobre la mesa diferentes alternativas.
+                                </p>
+
+                                <ul class="list-grid-four">
+                                    <li>Definir el problema</li>
+                                    <li>Desechar lo que ya sabemos</li>
+                                    <li>Generar alternativas</li>
+                                    <li>Elegir la mejor idea</li>
+                                    <li>Llevarla a la acción</li>
                                 </ul>
-                                <div className="about-author">
-                                    <div className="thumb">
-                                        <img src="/img/team/9.jpg" alt="Image Not Found" />
-                                    </div>
-                                    <div className="info">
-                                        <h4>James Baker</h4>
-                                        <span>CEO & Founder</span>
-                                    </div>
-                                </div>
                             </div>
                         </div>
                     </div>
