@@ -14,7 +14,7 @@ const BreadCrumb = ({ title1, title2, breadCrumb, bottomSpace, offsetClass }) =>
                             <div className={`col-lg-8 ${offsetClass ? offsetClass : ""}`}>
                                 <nav aria-label="breadcrumb">
                                     <ol className="breadcrumb">
-                                        <li><Link to="/#"><i className="fa-solid fa-home"></i> Home</Link></li>
+                                        <li><Link to="/#"><i className="fa-solid fa-home"></i> Inicio</Link></li>
                                         <li className="active">{breadCrumb ? breadCrumb : "error"}</li>
                                     </ol>
                                 </nav>
