@@ -11,9 +11,6 @@ const ContactV1Reverse = () => {
                 </div>
                 <div className="container">
                     <div className="row align-center">
-                        <div className="col-tact-stye-one col-lg-6">
-                            <ContactForm />
-                        </div>
                         <div className="col-tact-stye-one col-lg-5 offset-lg-1 mt--80 mt-md-50 mt-xs-50">
                             <ContactInfo />
                         </div>

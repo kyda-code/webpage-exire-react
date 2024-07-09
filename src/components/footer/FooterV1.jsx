@@ -41,7 +41,7 @@ const FooterV1 = () => {
                                         <li>
                                             <div className="content">
                                                 <strong>Direcci&oacute;n</strong>
-                                                06500, Rio Lerma 94 Piso 3, Cuauht&eacute;moc, CDMX
+                                                Rio Lerma 94 Piso 3, Cuauht&eacute;moc, CDMX, 06500
                                             </div>
                                         </li>
                                         <li>
