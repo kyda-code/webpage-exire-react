@@ -35,7 +35,8 @@
                 "id": 6,
                 "featureList": "Desarrollo de Proveedores en Asia"
             }
-        ]
+        ],
+        "breadcrumbService": "Transporte Internacional"
     },
     {
         "id": 2,
@@ -73,7 +74,8 @@
                 "id": 6,
                 "featureList": "Puerto a puerta para recolectar tu carga en el puerto y entregarlo en donde nos indiques en México o en el extranjero"
             }
-        ]
+        ],
+        "breadcrumbService": "Transporte Nacional"
     },
     {
         "id": 3,
@@ -103,7 +105,8 @@
                 "id": 4,
                 "featureList": "Explicar claramente cuales son los impuestos que deben ser pagados"
             }
-        ]
+        ],
+        "breadcrumbService": "Despacho Aduanal"
     },
     {
         "id": 4,
@@ -137,7 +140,8 @@
                 "id": 5,
                 "featureList": "Asegurar su carga en caso de ser necesario"
             }
-        ]
+        ],
+        "breadcrumbService": "Transporte Aéreo"
     },
     {
         "id": 5,
@@ -171,7 +175,8 @@
                 "id": 5,
                 "featureList": "Generar certificado de seguro"
             }
-        ]
+        ],
+        "breadcrumbService": "Importación Marítima"
     },
     {
         "id": 6,
@@ -205,6 +210,7 @@
                 "id": 5,
                 "featureList": "Generar certificado de seguro"
             }
-        ]
+        ],
+        "breadcrumbService": "Exportación Marítima"
     }
 ]

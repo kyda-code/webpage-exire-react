@@ -15,7 +15,7 @@ const ServicesDetails = () => {
         <>
             <div className="wrapper">
                 <HeaderV5 />
-                <BreadCrumb breadCrumb="services-details" title1={data.title} bottomSpace="pb-0" />
+                <BreadCrumb breadCrumb={data.breadcrumbService} title1={data.title} bottomSpace="pb-0" />
                 <ServicesDetailsContent serviceInfo={data} />
                 <FooterV1 />
             </div>
