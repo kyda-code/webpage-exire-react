@@ -13,7 +13,7 @@ const AboutV3 = () => {
                                 <img src="/img/thumb/exire-logistics-containers.jpg"/>
                                 <img src="/img/thumb/exire-logistics-solutions.jpg"/>
                                 <div className="experience">
-                                    <h2><strong><CountUp end={18} duration={3} enableScrollSpy /></strong> Years Experience</h2>
+                                    <h2><strong><CountUp end={20} duration={3} enableScrollSpy /></strong>A&ntilde;os de Experiencia</h2>
                                 </div>
                                 <div className="animated-shape">
                                     <img src="/img/shape/38.png" alt="Shape" />

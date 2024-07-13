@@ -11,7 +11,7 @@ const AboutV2 = () => {
                             <div className="about-two-thumb">
                                 <img src="/img/thumb/4.jpg" alt="Image Not Found" />
                                 <div className="experience">
-                                    <h2><strong>18</strong> Years Experience</h2>
+                                    <h2><strong>20</strong>Anios de Experiencia</h2>
                                 </div>
                             </div>
                         </div>
