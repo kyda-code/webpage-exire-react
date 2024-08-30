@@ -1,5 +1,6 @@
 import React from 'react';
 import { HashLink as Link } from 'react-router-hash-link'
+import ServiceListWidgetData from '../../jsonData/ServiceListWidgetData.json'
 
 const MainMenu = ({ isOpen, closeMenu, toggleSubMenu, toggleMegaMenu }) => {
     return (
@@ -14,8 +15,9 @@ const MainMenu = ({ isOpen, closeMenu, toggleSubMenu, toggleMegaMenu }) => {
                     <li className="dropdown">
                         <Link to={void (0)} className="dropdown-toggle" onClick={toggleSubMenu}>Servicios</Link>
                         <ul className="dropdown-menu">
-                            <li><Link to="/services-details/4">A&eacute;reo</Link></li>
-                            <li><Link to="/services-details/3">Aduana</Link></li>
+                            {ServiceListWidgetData.map(service =>
+                                <li key={service.id}><Link to={`/${service.listLink}#`}>{service.listTitle}</Link></li>
+                            )}
                         </ul>
                     </li>
                     <li><Link to="/about-us">Nosotros</Link></li>

@@ -212,5 +212,40 @@
             }
         ],
         "breadcrumbService": "Exportación Marítima"
+    },
+    {
+        "id": 7,
+        "icon1": "6.png",
+        "icon1Dark": "6.png",
+        "thumb": "exire-logistics-service-insurance.jpg",
+        "icon2": "fas fa-long-arrow-right",
+        "text": "El seguro de carga es un contrato que protege las mercancías durante su transporte contra diversos riesgos como daños, robos o pérdidas. Proporciona una compensación económica al asegurado en caso de que ocurra un siniestro cubierto por la póliza. Es fundamental para empresas que envían o reciben productos, ya que les brinda tranquilidad y seguridad financiera.",
+        "title": "Seguro de Carga",
+        "serviceLink": "services-details",
+        "challenge" : "El transporte de mercancías implica riesgos que pueden afectar la integridad de los productos y la economía de las empresas. Los daños, robos o pérdidas de mercancías durante su traslado pueden generar pérdidas económicas significativas y afectar la reputación de las empresas. Por ello, es fundamental contar con un seguro de carga que proteja las mercancías durante su transporte y brinde seguridad financiera a las empresas.",
+        "weMake" : "En Exire Logistics te ofrecemos la tranquilidad que necesitas para que tus mercancías lleguen a su destino sin contratiempos, contamos con un seguro de carga que protege tus productos contra daños, robos o pérdidas durante su transporte. Nuestro seguro de carga es una póliza que cubre los riesgos a los que están expuestas tus mercancías durante su traslado, ya sea por vía terrestre, marítima o aérea.",
+        "featureList": [
+            {
+                "id": 1,
+                "featureList": "Cobertura de daños"
+            },
+            {
+                "id": 2,
+                "featureList": "Cobertura de robo"
+            },
+            {
+                "id": 3,
+                "featureList": "Cobertura de pérdida"
+            },
+            {
+                "id": 4,
+                "featureList": "Gastos adicionales"
+            },
+            {
+                "id": 5,
+                "featureList": "Responsabilidad civil"
+            }
+        ],
+        "breadcrumbService": "Seguro de Carga"
     }
 ]
