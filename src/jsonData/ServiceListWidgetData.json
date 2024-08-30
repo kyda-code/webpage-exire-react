@@ -34,5 +34,11 @@
         "listTitle": "Exportacion Marítima",
         "listLink": "services-details/6",
         "listIcon": "fa-solid fa-angle-right"
+    },
+    {
+        "id": 7,
+        "listTitle": "Seguro de Carga",
+        "listLink": "services-details/7",
+        "listIcon": "fa-solid fa-angle-right"
     }
 ]
