@@ -11,7 +11,12 @@ const MainMenu = ({ isOpen, closeMenu, toggleSubMenu, toggleMegaMenu }) => {
                 </button>
                 <ul className="nav navbar-nav navbar-center">
                     <li><Link to="/#">Inicio</Link></li>
-                    <li><Link to="/services-details/1">Servicios</Link></li>
+                    <li className="dropdown">
+                        <Link to={void (0)} className="dropdown-toggle" onClick={toggleSubMenu}>Servicios</Link>
+                        <ul className="dropdown-menu">
+                            <li><Link to="/services-details/4">A&eacute;reo</Link></li>
+                        </ul>
+                    </li>
                     <li><Link to="/about-us">Nosotros</Link></li>
                     <li><Link to="/contact-us">Contacto</Link></li>
                 </ul>
