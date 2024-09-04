@@ -46,5 +46,11 @@
         "listTitle": "Capacitación",
         "listLink": "services-details/8",
         "listIcon": "fa-solid fa-angle-right"
+    },
+    {
+        "id": 9,
+        "listTitle": "Permisos y Regulaciones",
+        "listLink": "services-details/9",
+        "listIcon": "fa-solid fa-angle-right"
     }
 ]

@@ -282,5 +282,40 @@
             }
         ],
         "breadcrumbService": "Capacitación"
+    },
+    {
+        "id": 9,
+        "icon1": "6.png",
+        "icon1Dark": "6.png",
+        "thumb": "exire-logistics-service-regulations.jpg",
+        "icon2": "fas fa-long-arrow-right",
+        "text": "Los permisos y regulaciones en logística son el conjunto de normas, leyes y autorizaciones gubernamentales que rigen las actividades relacionadas con el transporte, almacenamiento y distribución de mercancías. Su objetivo es garantizar la seguridad, eficiencia y legalidad de las operaciones logísticas, protegiendo tanto a las empresas como a los consumidores y al medio ambiente.",
+        "title": "Permisos y Regulaciones",
+        "serviceLink": "services-details",
+        "challenge" : "El cumplimiento de los permisos y regulaciones en logística es fundamental para evitar sanciones, multas y problemas legales que puedan afectar la reputación y la operatividad de las empresas. Las normativas en materia de transporte, almacenamiento y distribución de mercancías varían según el país y la región, por lo que es necesario contar con un conocimiento especializado para garantizar el cumplimiento de las leyes y autorizaciones vigentes.",
+        "weMake" : "En Exire Logistics ofrecemos asesoría especializada en permisos y regulaciones en logística para garantizar el cumplimiento de las normativas vigentes en materia de transporte, almacenamiento y distribución de mercancías. Nuestros expertos en logística te ayudarán a identificar los permisos y autorizaciones necesarios para tus operaciones, así como a gestionar los trámites y documentación requeridos para cumplir con la legalidad y la seguridad en tus operaciones logísticas.",
+        "featureList": [
+            {
+                "id": 1,
+                "featureList": "Transporte"
+            },
+            {
+                "id": 2,
+                "featureList": "Almacenamiento"
+            },
+            {
+                "id": 3,
+                "featureList": "Comercio internacional"
+            },
+            {
+                "id": 4,
+                "featureList": "Seguridad"
+            },
+            {
+                "id": 5,
+                "featureList": "Importación y exportación"
+            }
+        ],
+        "breadcrumbService": "Permisos y Regulaciones"
     }
 ]
