@@ -12,12 +12,6 @@
         "listIcon": "fa-solid fa-angle-right"
     },
     {
-        "id": 3,
-        "listTitle": "Despacho Aduanal",
-        "listLink": "services-details/3",
-        "listIcon": "fa-solid fa-angle-right"
-    },
-    {
         "id": 4,
         "listTitle": "Transporte Aéreo",
         "listLink": "services-details/4",
@@ -33,6 +27,12 @@
         "id": 6,
         "listTitle": "Exportacion Marítima",
         "listLink": "services-details/6",
+        "listIcon": "fa-solid fa-angle-right"
+    },
+    {
+        "id": 3,
+        "listTitle": "Despacho Aduanal",
+        "listLink": "services-details/3",
         "listIcon": "fa-solid fa-angle-right"
     },
     {
