@@ -40,5 +40,11 @@
         "listTitle": "Seguro de Carga",
         "listLink": "services-details/7",
         "listIcon": "fa-solid fa-angle-right"
+    },
+    {
+        "id": 8,
+        "listTitle": "Capacitación",
+        "listLink": "services-details/8",
+        "listIcon": "fa-solid fa-angle-right"
     }
 ]

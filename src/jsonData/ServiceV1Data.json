@@ -247,5 +247,40 @@
             }
         ],
         "breadcrumbService": "Seguro de Carga"
+    },
+    {
+        "id": 8,
+        "icon1": "6.png",
+        "icon1Dark": "6.png",
+        "thumb": "exire-logistics-service-training.jpg",
+        "icon2": "fas fa-long-arrow-right",
+        "text": "La capacitación en logística es el proceso de brindar conocimientos, habilidades y herramientas a los profesionales del área para optimizar la gestión de la cadena de suministro, desde la planificación y el abastecimiento hasta el almacenamiento, transporte y distribución de productos. Es fundamental para mejorar la eficiencia, reducir costos y garantizar la satisfacción del cliente.",
+        "title": "Capacitación",
+        "serviceLink": "services-details",
+        "challenge" : "La logística es una disciplina que abarca múltiples áreas y requiere de conocimientos especializados para garantizar la eficiencia y la calidad en la gestión de la cadena de suministro. Los profesionales del área deben estar actualizados en las últimas tendencias, tecnologías y prácticas para mejorar la competitividad de las empresas y garantizar la satisfacción de los clientes.",
+        "weMake" : "En Exire Logistics ofrecemos capacitación en logística para profesionales del área que deseen mejorar sus habilidades y conocimientos en la gestión de la cadena de suministro. Nuestros cursos y talleres están diseñados para brindar las herramientas necesarias para optimizar la planificación, el abastecimiento, el almacenamiento, el transporte y la distribución de productos, así como para mejorar la eficiencia, reducir costos y garantizar la satisfacción del cliente.",
+        "featureList": [
+            {
+                "id": 1,
+                "featureList": "Formación en gestión de inventarios"
+            },
+            {
+                "id": 2,
+                "featureList": "Planificación de la demanda"
+            },
+            {
+                "id": 3,
+                "featureList": "Optimización de rutas de transporte"
+            },
+            {
+                "id": 4,
+                "featureList": "Gestión de almacenes"
+            },
+            {
+                "id": 5,
+                "featureList": "Tecnologías de la información aplicadas a la logística"
+            }
+        ],
+        "breadcrumbService": "Capacitación"
     }
 ]
